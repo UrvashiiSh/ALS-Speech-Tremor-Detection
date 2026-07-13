@@ -2,8 +2,9 @@
   
 ## Exploiting Speech Tremors: Machine Learning for Early Diagnosis of Amyotrophic Lateral Sclerosis
 </div>
+<br>
+<img width="1536" height="509" alt="Research_Workflow_ALS" src="https://github.com/user-attachments/assets/c98366b9-5fd4-4796-9653-a75b21575153" />
 
-<img width="1240" height="597" alt="Framework_ALS" src="https://github.com/user-attachments/assets/f553c747-60a4-41d4-b0bf-e4521343a86b" />
 
 ---
 
@@ -75,8 +76,7 @@ Speech analysis provides a cost-effective, objective, and non-invasive approach 
 
 ### Machine Learning Pipeline
 
-![Pipeline](images/ml_pipeline.png)
-
+<img width="1536" height="495" alt="ML_Pipeline_ALS" src="https://github.com/user-attachments/assets/fa0af6cb-ca1c-463c-8f5d-2ef11c713247" />
 
 
 ### Key Findings
