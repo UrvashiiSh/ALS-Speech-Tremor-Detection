@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+title: "Exploiting Speech Tremors: Machine Learning for Early Diagnosis of Amyotrophic Lateral Sclerosis"
+message: "If you use this repository, please cite the associated publication."
+authors:
+  - family-names: "Chauhan"
+    given-names: "Ritu"
+
+  - family-names: "Sharma"
+    given-names: "Urvashi"
+
+journal: "Engineering Research Express"
+version: 1.0.0
+doi: "10.1088/2631-8695/ad7d62"
+date-released: "2024-11-07"
+repository-code: "https://github.com/UrvashiiSh/ALS-Speech-Tremor-Detection"
